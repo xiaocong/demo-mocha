@@ -1,0 +1,19 @@
+{
+  "author": "Xiaocong He <xiaocong.he@gmail.com>",
+  "name": "ApiChecking",
+  "description": "Testing Borqs APIs",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+      "request": "2.x.x"
+    , "mocha": ">=1.0.0"
+    , "should": ">=0.6.0"
+    , "underscore": "1.2.x"
+    , "qs": "0.4.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
